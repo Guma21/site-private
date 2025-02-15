@@ -69,6 +69,222 @@
 </div>
 <!-- About End -->
 
+<!-- Offer Start -->
+<div class="container-fluid offer-section pb-5">
+    <div class="container pb-5">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h4 class="text-primary">Our Offer</h4>
+            <h1 class="display-5 mb-4">Benefits We offer</h1>
+            <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis
+                cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt
+                sint dolorem autem obcaecati, ipsam mollitia hic.
+            </p>
+        </div>
+        <div class="row g-5 align-items-center">
+            <div class="col-xl-5 wow fadeInLeft" data-wow-delay="0.2s">
+                <div class="nav nav-pills bg-light rounded p-5">
+                    <a class="accordion-link p-4 active mb-4" data-bs-toggle="pill" href="#collapseOne">
+                        <h5 class="mb-0">Lending money for investment of your new projects</h5>
+                    </a>
+                    <a class="accordion-link p-4 mb-4" data-bs-toggle="pill" href="#collapseTwo">
+                        <h5 class="mb-0">Lending money for investment of your new projects</h5>
+                    </a>
+                    <a class="accordion-link p-4 mb-4" data-bs-toggle="pill" href="#collapseThree">
+                        <h5 class="mb-0">Mobile payment is more flexible and easy for all investors</h5>
+                    </a>
+                    <a class="accordion-link p-4 mb-0" data-bs-toggle="pill" href="#collapseFour">
+                        <h5 class="mb-0">all transaction is kept free for the member of pro traders</h5>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-7 wow fadeInRight" data-wow-delay="0.4s">
+                <div class="tab-content">
+                    <div id="collapseOne" class="tab-pane fade show p-0 active">
+                        <div class="row g-4">
+                            <div class="col-md-7">
+                                <img src="file-stocker/img/offer-1.jpg" class="img-fluid w-100 rounded" alt="">
+                            </div>
+                            <div class="col-md-5">
+                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
+                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
+                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
+                                </p>
+                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="collapseTwo" class="tab-pane fade show p-0">
+                        <div class="row g-4">
+                            <div class="col-md-7">
+                                <img src="file-stocker/img/offer-2.jpg" class="img-fluid w-100 rounded" alt="">
+                            </div>
+                            <div class="col-md-5">
+                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
+                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
+                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
+                                </p>
+                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="collapseThree" class="tab-pane fade show p-0">
+                        <div class="row g-4">
+                            <div class="col-md-7">
+                                <img src="file-stocker/img/offer-3.jpg" class="img-fluid w-100 rounded"
+                                    alt="">
+                            </div>
+                            <div class="col-md-5">
+                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
+                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
+                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
+                                </p>
+                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="collapseFour" class="tab-pane fade show p-0">
+                        <div class="row g-4">
+                            <div class="col-md-7">
+                                <img src="file-stocker/img/offer-4.jpg" class="img-fluid w-100 rounded"
+                                    alt="">
+                            </div>
+                            <div class="col-md-5">
+                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
+                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
+                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
+                                </p>
+                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Offer End -->
+
+<!-- Blog Start -->
+<div class="container-fluid blog pb-5">
+    <div class="container pb-5">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
+            <h4 class="text-primary">Our Blog & News</h4>
+            <h1 class="display-5 mb-4">Articles For Pro Traders</h1>
+            <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis
+                cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt
+                sint dolorem autem obcaecati, ipsam mollitia hic.
+            </p>
+        </div>
+        <div class="owl-carousel blog-carousel wow fadeInUp" data-wow-delay="0.2s">
+            <div class="blog-item p-4">
+                <div class="blog-img mb-4">
+                    <img src="file-stocker/img/service-1.jpg" class="img-fluid w-100 rounded" alt="">
+                    <div class="blog-title">
+                        <a href="#" class="btn">Dividend Stocks</a>
+                    </div>
+                </div>
+                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
+                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
+                    suscipit error corporis accusamus labore....
+                </p>
+                <div class="d-flex align-items-center">
+                    <img src="file-stocker/img/testimonial-1.jpg" class="img-fluid rounded-circle"
+                        style="width: 60px; height: 60px;" alt="">
+                    <div class="ms-3">
+                        <h5>Admin</h5>
+                        <p class="mb-0">October 9, 2025</p>
+                    </div>
+                </div>
+            </div>
+            <div class="blog-item p-4">
+                <div class="blog-img mb-4">
+                    <img src="file-stocker/img/service-2.jpg" class="img-fluid w-100 rounded" alt="">
+                    <div class="blog-title">
+                        <a href="#" class="btn">Non-Dividend Stocks</a>
+                    </div>
+                </div>
+                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
+                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
+                    suscipit error corporis accusamus labore....
+                </p>
+                <div class="d-flex align-items-center">
+                    <img src="file-stocker/img/testimonial-2.jpg" class="img-fluid rounded-circle"
+                        style="width: 60px; height: 60px;" alt="">
+                    <div class="ms-3">
+                        <h5>Admin</h5>
+                        <p class="mb-0">October 9, 2025</p>
+                    </div>
+                </div>
+            </div>
+            <div class="blog-item p-4">
+                <div class="blog-img mb-4">
+                    <img src="file-stocker/img/service-3.jpg" class="img-fluid w-100 rounded" alt="">
+                    <div class="blog-title">
+                        <a href="#" class="btn">Dividend Stocks</a>
+                    </div>
+                </div>
+                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
+                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
+                    suscipit error corporis accusamus labore....
+                </p>
+                <div class="d-flex align-items-center">
+                    <img src="file-stocker/img/testimonial-3.jpg" class="img-fluid rounded-circle"
+                        style="width: 60px; height: 60px;" alt="">
+                    <div class="ms-3">
+                        <h5>Admin</h5>
+                        <p class="mb-0">October 9, 2025</p>
+                    </div>
+                </div>
+            </div>
+            <div class="blog-item p-4">
+                <div class="blog-img mb-4">
+                    <img src="file-stocker/img/service-4.jpg" class="img-fluid w-100 rounded" alt="">
+                    <div class="blog-title">
+                        <a href="#" class="btn">Non-Dividend Stocks</a>
+                    </div>
+                </div>
+                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
+                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
+                    suscipit error corporis accusamus labore....
+                </p>
+                <div class="d-flex align-items-center">
+                    <img src="file-stocker/img/testimonial-1.jpg" class="img-fluid rounded-circle"
+                        style="width: 60px; height: 60px;" alt="">
+                    <div class="ms-3">
+                        <h5>Admin</h5>
+                        <p class="mb-0">October 9, 2025</p>
+                    </div>
+                </div>
+            </div>
+            <div class="blog-item p-4">
+                <div class="blog-img mb-4">
+                    <img src="file-stocker/img/service-4.jpg" class="img-fluid w-100 rounded" alt="">
+                    <div class="blog-title">
+                        <a href="#" class="btn">Non-Dividend Stocks</a>
+                    </div>
+                </div>
+                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
+                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
+                    suscipit error corporis accusamus labore....
+                </p>
+                <div class="d-flex align-items-center">
+                    <img src="file-stocker/img/testimonial-1.jpg" class="img-fluid rounded-circle"
+                        style="width: 60px; height: 60px;" alt="">
+                    <div class="ms-3">
+                        <h5>Admin</h5>
+                        <p class="mb-0">October 9, 2025</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->
+
 <!-- Services Start -->
 <div class="container-fluid service pb-5">
     <div class="container pb-5">
@@ -234,204 +450,6 @@
     </div>
 </div>
 <!-- Features End -->
-
-<!-- Offer Start -->
-<div class="container-fluid offer-section pb-5">
-    <div class="container pb-5">
-        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-            <h4 class="text-primary">Our Offer</h4>
-            <h1 class="display-5 mb-4">Benefits We offer</h1>
-            <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis
-                cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt
-                sint dolorem autem obcaecati, ipsam mollitia hic.
-            </p>
-        </div>
-        <div class="row g-5 align-items-center">
-            <div class="col-xl-5 wow fadeInLeft" data-wow-delay="0.2s">
-                <div class="nav nav-pills bg-light rounded p-5">
-                    <a class="accordion-link p-4 active mb-4" data-bs-toggle="pill" href="#collapseOne">
-                        <h5 class="mb-0">Lending money for investment of your new projects</h5>
-                    </a>
-                    <a class="accordion-link p-4 mb-4" data-bs-toggle="pill" href="#collapseTwo">
-                        <h5 class="mb-0">Lending money for investment of your new projects</h5>
-                    </a>
-                    <a class="accordion-link p-4 mb-4" data-bs-toggle="pill" href="#collapseThree">
-                        <h5 class="mb-0">Mobile payment is more flexible and easy for all investors</h5>
-                    </a>
-                    <a class="accordion-link p-4 mb-0" data-bs-toggle="pill" href="#collapseFour">
-                        <h5 class="mb-0">all transaction is kept free for the member of pro traders</h5>
-                    </a>
-                </div>
-            </div>
-            <div class="col-xl-7 wow fadeInRight" data-wow-delay="0.4s">
-                <div class="tab-content">
-                    <div id="collapseOne" class="tab-pane fade show p-0 active">
-                        <div class="row g-4">
-                            <div class="col-md-7">
-                                <img src="file-stocker/img/offer-1.jpg" class="img-fluid w-100 rounded"
-                                    alt="">
-                            </div>
-                            <div class="col-md-5">
-                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
-                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
-                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
-                                </p>
-                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="collapseTwo" class="tab-pane fade show p-0">
-                        <div class="row g-4">
-                            <div class="col-md-7">
-                                <img src="file-stocker/img/offer-2.jpg" class="img-fluid w-100 rounded"
-                                    alt="">
-                            </div>
-                            <div class="col-md-5">
-                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
-                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
-                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
-                                </p>
-                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="collapseThree" class="tab-pane fade show p-0">
-                        <div class="row g-4">
-                            <div class="col-md-7">
-                                <img src="file-stocker/img/offer-3.jpg" class="img-fluid w-100 rounded"
-                                    alt="">
-                            </div>
-                            <div class="col-md-5">
-                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
-                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
-                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
-                                </p>
-                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="collapseFour" class="tab-pane fade show p-0">
-                        <div class="row g-4">
-                            <div class="col-md-7">
-                                <img src="file-stocker/img/offer-4.jpg" class="img-fluid w-100 rounded"
-                                    alt="">
-                            </div>
-                            <div class="col-md-5">
-                                <h1 class="display-5 mb-4">The stock market provides a venue...</h1>
-                                <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-                                    amet sequi molestiae tenetur eum mollitia, blanditiis, magnam illo magni error
-                                    dolore unde perspiciatis tempore et totam corrupti dignissimos aut praesentium?
-                                </p>
-                                <a class="btn btn-primary rounded-pill py-2 px-4" href="#">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Offer End -->
-
-<!-- Blog Start -->
-<div class="container-fluid blog pb-5">
-    <div class="container pb-5">
-        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-            <h4 class="text-primary">Our Blog & News</h4>
-            <h1 class="display-5 mb-4">Articles For Pro Traders</h1>
-            <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis
-                cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt
-                sint dolorem autem obcaecati, ipsam mollitia hic.
-            </p>
-        </div>
-        <div class="owl-carousel blog-carousel wow fadeInUp" data-wow-delay="0.2s">
-            <div class="blog-item p-4">
-                <div class="blog-img mb-4">
-                    <img src="file-stocker/img/service-1.jpg" class="img-fluid w-100 rounded" alt="">
-                    <div class="blog-title">
-                        <a href="#" class="btn">Dividend Stocks</a>
-                    </div>
-                </div>
-                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
-                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
-                    suscipit error corporis accusamus labore....
-                </p>
-                <div class="d-flex align-items-center">
-                    <img src="file-stocker/img/testimonial-1.jpg" class="img-fluid rounded-circle"
-                        style="width: 60px; height: 60px;" alt="">
-                    <div class="ms-3">
-                        <h5>Admin</h5>
-                        <p class="mb-0">October 9, 2025</p>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item p-4">
-                <div class="blog-img mb-4">
-                    <img src="file-stocker/img/service-2.jpg" class="img-fluid w-100 rounded" alt="">
-                    <div class="blog-title">
-                        <a href="#" class="btn">Non-Dividend Stocks</a>
-                    </div>
-                </div>
-                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
-                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
-                    suscipit error corporis accusamus labore....
-                </p>
-                <div class="d-flex align-items-center">
-                    <img src="file-stocker/img/testimonial-2.jpg" class="img-fluid rounded-circle"
-                        style="width: 60px; height: 60px;" alt="">
-                    <div class="ms-3">
-                        <h5>Admin</h5>
-                        <p class="mb-0">October 9, 2025</p>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item p-4">
-                <div class="blog-img mb-4">
-                    <img src="file-stocker/img/service-3.jpg" class="img-fluid w-100 rounded" alt="">
-                    <div class="blog-title">
-                        <a href="#" class="btn">Dividend Stocks</a>
-                    </div>
-                </div>
-                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
-                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
-                    suscipit error corporis accusamus labore....
-                </p>
-                <div class="d-flex align-items-center">
-                    <img src="file-stocker/img/testimonial-3.jpg" class="img-fluid rounded-circle"
-                        style="width: 60px; height: 60px;" alt="">
-                    <div class="ms-3">
-                        <h5>Admin</h5>
-                        <p class="mb-0">October 9, 2025</p>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item p-4">
-                <div class="blog-img mb-4">
-                    <img src="file-stocker/img/service-4.jpg" class="img-fluid w-100 rounded" alt="">
-                    <div class="blog-title">
-                        <a href="#" class="btn">Non-Dividend Stocks</a>
-                    </div>
-                </div>
-                <a href="#" class="h4 d-inline-block mb-3">Options Trading Business?</a>
-                <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aut aliquam
-                    suscipit error corporis accusamus labore....
-                </p>
-                <div class="d-flex align-items-center">
-                    <img src="file-stocker/img/testimonial-1.jpg" class="img-fluid rounded-circle"
-                        style="width: 60px; height: 60px;" alt="">
-                    <div class="ms-3">
-                        <h5>Admin</h5>
-                        <p class="mb-0">October 9, 2025</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Blog End -->
 
 <!-- FAQs Start -->
 <div class="container-fluid faq-section pb-5">
@@ -737,6 +755,36 @@
                 </div>
                 <div class="testimonial-img">
                     <img src="file-stocker/img/testimonial-3.jpg" class="img-fluid" alt="Image">
+                </div>
+                <div class="testimonial-text">
+                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis
+                        excepturi quisquam temporibus voluptatum reprehenderit culpa, quasi corrupti laborum
+                        accusamus.
+                    </p>
+                </div>
+                <div class="testimonial-title">
+                    <div>
+                        <h4 class="mb-0">Person Name</h4>
+                        <p class="mb-0">Profession</p>
+                    </div>
+                    <div class="d-flex text-primary">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                </div>
+                <div class="testimonial-quote-right">
+                    <i class="fas fa-quote-right fa-2x"></i>
+                </div>
+            </div>
+            <div class="testimonial-item">
+                <div class="testimonial-quote-left">
+                    <i class="fas fa-quote-left fa-2x"></i>
+                </div>
+                <div class="testimonial-img">
+                    <img src="file-stocker/img/testimonial-2.jpg" class="img-fluid" alt="Image">
                 </div>
                 <div class="testimonial-text">
                     <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis blanditiis
