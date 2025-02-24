@@ -1,7 +1,7 @@
     <!-- Spinner Start -->
     <div id="spinner"
         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+        <div class="spinner-border text-primary" role="status">
             <span class="sr-only">Loading...</span>
         </div>
     </div>
@@ -24,7 +24,8 @@
                     <a href="#" class="nav-item nav-link">Resume</a>
                     <a href="#" class="nav-item nav-link">Intermezzo</a>
                 </div>
-                <a href="#" class="btn btn-primary rounded-pill py-2 px-4 my-3 my-lg-0 flex-shrink-0">My CV</a>
+                <a href="#" class="btn btn-primary rounded-pill py-2 px-4 my-3 my-lg-0 flex-shrink-0">My
+                    CV</a>
             </div>
         </nav>
 
@@ -39,31 +40,31 @@
                             <div class="col-xl-7 animated fadeInLeft">
                                 <div class="text-sm-center text-md-end">
                                     <h4 class="text-primary text-uppercase fw-bold mb-4">Welcome To My Site!</h4>
-                                    <h1 class="display-4 text-uppercase text-white mb-4">Where Dreams Never Fade Away!
+                                    <h1 class="display-4 text-uppercase text-white mb-4">Where Dreams Never Fade
+                                        Away!
                                     </h1>
-                                    <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and
-                                        typesetting industry. Lorem Ipsum has been the industry's standard dummy...
-                                    </p>
-                                    <div
-                                        class="d-flex justify-content-center justify-content-md-end flex-shrink-0 mb-4">
-                                        <a class="btn btn-light rounded-pill py-3 px-4 px-md-5 me-2" href="#"><i
-                                                class="fas fa-play-circle me-2"></i> Watch Video</a>
-                                        <a class="btn btn-primary rounded-pill py-3 px-4 px-md-5 ms-2"
-                                            href="#">Learn
-                                            More</a>
-                                    </div>
                                     <div
                                         class="d-flex align-items-center justify-content-center justify-content-md-end">
-                                        <h2 class="text-white me-2">Follow Us:</h2>
+                                        <h2 class="text-white me-2">Follow Me On:</h2>
                                         <div class="d-flex justify-content-end ms-2">
-                                            <a class="btn btn-md-square btn-light rounded-circle me-2" href=""><i
-                                                    class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-md-square btn-light rounded-circle mx-2" href=""><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-md-square btn-light rounded-circle mx-2" href=""><i
-                                                    class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-md-square btn-light rounded-circle ms-2" href=""><i
-                                                    class="fab fa-linkedin-in"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle me-2"
+                                                href="https://www.facebook.com/rizqi.adi.210/" target="_blank"><i
+                                                    class="bi bi-facebook fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://www.instagram.com/rizqiadi.gumilang" target="_blank"><i
+                                                    class="bi bi-instagram fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://www.threads.net/@rizqiadi.gumilang" target="_blank"><i
+                                                    class="bi bi-threads fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://www.linkedin.com/in/muhammad-rizqi-adi-gumilang/"
+                                                target="_blank"><i class="bi bi-linkedin fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://github.com/Guma21" target="_blank"><i
+                                                    class="bi bi-github fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle ms-2"
+                                                href="https://discord.gg/KDJbAgHP" target="_blank"><i
+                                                    class="bi bi-discord fs-4"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -80,29 +81,30 @@
                             <div class="col-12 animated fadeInUp">
                                 <div class="text-center">
                                     <h4 class="text-primary text-uppercase fw-bold mb-4">Welcome To My Site!</h4>
-                                    <h1 class="display-4 text-uppercase text-white mb-4">Where Dreams Never Fade Away!
+                                    <h1 class="display-4 text-uppercase text-white mb-4">Where Dreams Never Fade
+                                        Away!
                                     </h1>
-                                    <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and
-                                        typesetting industry. Lorem Ipsum has been the industry's standard dummy...
-                                    </p>
-                                    <div class="d-flex justify-content-center flex-shrink-0 mb-4">
-                                        <a class="btn btn-light rounded-pill py-3 px-4 px-md-5 me-2" href="#"><i
-                                                class="fas fa-play-circle me-2"></i> Watch Video</a>
-                                        <a class="btn btn-primary rounded-pill py-3 px-4 px-md-5 ms-2"
-                                            href="#">Learn
-                                            More</a>
-                                    </div>
                                     <div class="d-flex align-items-center justify-content-center">
-                                        <h2 class="text-white me-2">Follow Us:</h2>
+                                        <h2 class="text-white me-2">Follow Me On:</h2>
                                         <div class="d-flex justify-content-end ms-2">
-                                            <a class="btn btn-md-square btn-light rounded-circle me-2" href=""><i
-                                                    class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-md-square btn-light rounded-circle mx-2" href=""><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-md-square btn-light rounded-circle mx-2" href=""><i
-                                                    class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-md-square btn-light rounded-circle ms-2" href=""><i
-                                                    class="fab fa-linkedin-in"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle me-2"
+                                                href="https://www.facebook.com/rizqi.adi.210/" target="_blank"><i
+                                                    class="bi bi-facebook fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://www.instagram.com/rizqiadi.gumilang" target="_blank"><i
+                                                    class="bi bi-instagram fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://www.threads.net/@rizqiadi.gumilang" target="_blank"><i
+                                                    class="bi bi-threads fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://www.linkedin.com/in/muhammad-rizqi-adi-gumilang/"
+                                                target="_blank"><i class="bi bi-linkedin fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle mx-2"
+                                                href="https://github.com/Guma21" target="_blank"><i
+                                                    class="bi bi-github fs-4"></i></a>
+                                            <a class="btn btn-md-square btn-light rounded-circle ms-2"
+                                                href="https://discord.gg/KDJbAgHP" target="_blank"><i
+                                                    class="bi bi-discord fs-4"></i></a>
                                         </div>
                                     </div>
                                 </div>

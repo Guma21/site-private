@@ -11,33 +11,14 @@
                     </a>
                     <p class="mb-4">Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem ipsum dolor sit
                         amet, consectetur adipiscing...</p>
-                    <div class="d-flex">
-                        <a href="#" class="bg-primary d-flex rounded align-items-center py-2 px-3 me-2">
-                            <i class="fas fa-apple-alt text-white"></i>
-                            <div class="ms-3">
-                                <small class="text-white">Download on the</small>
-                                <h6 class="text-white">App Store</h6>
-                            </div>
-                        </a>
-                        <a href="#" class="bg-dark d-flex rounded align-items-center py-2 px-3 ms-2">
-                            <i class="fas fa-play text-primary"></i>
-                            <div class="ms-3">
-                                <small class="text-white">Get it on</small>
-                                <h6 class="text-white">Google Play</h6>
-                            </div>
-                        </a>
-                    </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-2">
                 <div class="footer-item">
                     <h4 class="text-white mb-4">Quick Links</h4>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> About Us</a>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> Feature</a>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> Attractions</a>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> Tickets</a>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> Blog</a>
-                    <a href="#"><i class="fas fa-angle-right me-2"></i> Contact us</a>
+                    <a href="#"><i class="fas fa-angle-right me-2"></i> Profile</a>
+                    <a href="#"><i class="fas fa-angle-right me-2"></i> Resume</a>
+                    <a href="#"><i class="fas fa-angle-right me-2"></i> Intermezzo</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-3">
@@ -55,30 +36,36 @@
                 <div class="footer-item">
                     <h4 class="text-white mb-4">Contact Info</h4>
                     <div class="d-flex align-items-center">
-                        <i class="fas fa-map-marker-alt text-primary me-3"></i>
-                        <p class="text-white mb-0">123 Street New York.USA</p>
+                        <i class="bi bi-facebook text-primary me-3"></i>
+                        <p class="text-white mb-0">rizqi.adi.210</p>
                     </div>
                     <div class="d-flex align-items-center">
-                        <i class="fas fa-envelope text-primary me-3"></i>
-                        <p class="text-white mb-0">info@example.com</p>
+                        <i class="bi bi-instagram text-primary me-3"></i>
+                        <p class="text-white mb-0">rizqiadi.gumilang</p>
                     </div>
                     <div class="d-flex align-items-center">
-                        <i class="fa fa-phone-alt text-primary me-3"></i>
-                        <p class="text-white mb-0">(+012) 3456 7890</p>
+                        <i class="bi bi-threads text-primary me-3"></i>
+                        <p class="text-white mb-0">rizqiadi.gumilang</p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <i class="bi bi-linkedin text-primary me-3"></i>
+                        <p class="text-white mb-0">Muhammad Rizqi Adi Gumilang</p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <i class="bi bi-github text-primary me-3"></i>
+                        <p class="text-white mb-0">Guma21</p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <i class="bi bi-discord text-primary me-3"></i>
+                        <p class="text-white mb-0">ra_gumilang2110</p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <i class="bi bi-whatsapp text-primary me-3"></i>
+                        <p class="text-white mb-0">(+62) 851-2356-3900</p>
                     </div>
                     <div class="d-flex align-items-center mb-4">
-                        <i class="fab fa-firefox-browser text-primary me-3"></i>
-                        <p class="text-white mb-0">Yoursite@ex.com</p>
-                    </div>
-                    <div class="d-flex">
-                        <a class="btn btn-primary btn-sm-square rounded-circle me-3" href="#"><i
-                                class="fab fa-facebook-f text-white"></i></a>
-                        <a class="btn btn-primary btn-sm-square rounded-circle me-3" href="#"><i
-                                class="fab fa-twitter text-white"></i></a>
-                        <a class="btn btn-primary btn-sm-square rounded-circle me-3" href="#"><i
-                                class="fab fa-instagram text-white"></i></a>
-                        <a class="btn btn-primary btn-sm-square rounded-circle me-0" href="#"><i
-                                class="fab fa-linkedin-in text-white"></i></a>
+                        <i class="bi bi-telegram text-primary me-3"></i>
+                        <p class="text-white mb-0">(+62) 851-2356-3900</p>
                     </div>
                 </div>
             </div>

@@ -232,12 +232,12 @@ sup {
 }
 
 a {
-    color: #00d084;
+    color: inherit;
     text-decoration: none
 }
 
 a:hover {
-    color: #00a66a
+    color: #00ffff
 }
 
 a:not([href]):not([class]),
@@ -2528,8 +2528,8 @@ textarea.form-control-lg {
 }
 
 .form-check-input:checked {
-    background-color: #00d084;
-    border-color: #00d084
+    background-color: #40e0d0;
+    border-color: #40e0d0
 }
 
 .form-check-input:checked[type=checkbox] {
@@ -2541,8 +2541,8 @@ textarea.form-control-lg {
 }
 
 .form-check-input[type=checkbox]:indeterminate {
-    background-color: #00d084;
-    border-color: #00d084;
+    background-color: #40e0d0;
+    border-color: #40e0d0;
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10h8'/%3e%3c/svg%3e")
 }
 
@@ -2631,7 +2631,7 @@ textarea.form-control-lg {
     width: 1rem;
     height: 1rem;
     margin-top: -0.25rem;
-    background-color: #00d084;
+    background-color: #40e0d0;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -2661,7 +2661,7 @@ textarea.form-control-lg {
 .form-range::-moz-range-thumb {
     width: 1rem;
     height: 1rem;
-    background-color: #00d084;
+    background-color: #40e0d0;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -3453,14 +3453,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary {
-    color: #00d084;
-    border-color: #00d084
+    color: #40e0d0;
+    border-color: #40e0d0
 }
 
 .btn-outline-primary:hover {
     color: #000;
-    background-color: #00d084;
-    border-color: #00d084
+    background-color: #40e0d0;
+    border-color: #40e0d0
 }
 
 .btn-check:focus+.btn-outline-primary,
@@ -3474,8 +3474,8 @@ fieldset:disabled .btn {
 .btn-outline-primary.active,
 .btn-outline-primary.dropdown-toggle.show {
     color: #000;
-    background-color: #00d084;
-    border-color: #00d084
+    background-color: #40e0d0;
+    border-color: #40e0d0
 }
 
 .btn-check:checked+.btn-outline-primary:focus,
@@ -3488,7 +3488,7 @@ fieldset:disabled .btn {
 
 .btn-outline-primary:disabled,
 .btn-outline-primary.disabled {
-    color: #00d084;
+    color: #40e0d0;
     background-color: rgba(0, 0, 0, 0)
 }
 
@@ -3774,12 +3774,12 @@ fieldset:disabled .btn {
 
 .btn-link {
     font-weight: 400;
-    color: #00d084;
+    color: #40e0d0;
     text-decoration: none
 }
 
 .btn-link:hover {
-    color: #00a66a
+    color: #00ffff
 }
 
 .btn-link:disabled,
@@ -4150,7 +4150,7 @@ fieldset:disabled .btn {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #00d084
+    background-color: #40e0d0
 }
 
 .dropdown-item.disabled,
@@ -4198,7 +4198,7 @@ fieldset:disabled .btn {
 .dropdown-menu-dark .dropdown-item.active,
 .dropdown-menu-dark .dropdown-item:active {
     color: #fff;
-    background-color: #00d084
+    background-color: #40e0d0
 }
 
 .dropdown-menu-dark .dropdown-item.disabled,
@@ -4340,7 +4340,7 @@ fieldset:disabled .btn {
 .nav-link {
     display: block;
     padding: .5rem 1rem;
-    color: #00d084;
+    color: #40e0d0;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out
 }
 
@@ -4352,7 +4352,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: #00a66a
+    color: #00ffff
 }
 
 .nav-link.disabled {
@@ -4407,7 +4407,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #00d084
+    background-color: #40e0d0
 }
 
 .nav-fill>.nav-link,
@@ -5160,7 +5160,7 @@ fieldset:disabled .btn {
 .page-link {
     position: relative;
     display: block;
-    color: #00d084;
+    color: #40e0d0;
     background-color: #fff;
     border: 1px solid #dee2e6;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out
@@ -5174,14 +5174,14 @@ fieldset:disabled .btn {
 
 .page-link:hover {
     z-index: 2;
-    color: #00a66a;
+    color: #00ffff;
     background-color: #e9ecef;
     border-color: #dee2e6
 }
 
 .page-link:focus {
     z-index: 3;
-    color: #00a66a;
+    color: #00ffff;
     background-color: #e9ecef;
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(0, 208, 132, .25)
@@ -5194,8 +5194,8 @@ fieldset:disabled .btn {
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #00d084;
-    border-color: #00d084
+    background-color: #40e0d0;
+    border-color: #40e0d0
 }
 
 .page-item.disabled .page-link {
@@ -5402,7 +5402,7 @@ fieldset:disabled .btn {
     color: #fff;
     text-align: center;
     white-space: nowrap;
-    background-color: #00d084;
+    background-color: #40e0d0;
     transition: width .6s ease
 }
 
@@ -5493,8 +5493,8 @@ fieldset:disabled .btn {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #00d084;
-    border-color: #00d084
+    background-color: #40e0d0;
+    border-color: #40e0d0
 }
 
 .list-group-item+.list-group-item {
@@ -6893,7 +6893,7 @@ fieldset:disabled .btn {
 }
 
 .link-primary {
-    color: #00d084
+    color: #40e0d0
 }
 
 .link-primary:hover,
@@ -7319,7 +7319,7 @@ fieldset:disabled .btn {
 }
 
 .border-primary {
-    border-color: #00d084 !important
+    border-color: #40e0d0 !important
 }
 
 .border-secondary {
@@ -8356,7 +8356,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #00d084 !important
+    background-color: #40e0d0 !important
 }
 
 .bg-secondary {
@@ -8432,15 +8432,15 @@ fieldset:disabled .btn {
 }
 
 .rounded-1 {
-    border-radius: 10px !important
+    border-radius: 20% !important
 }
 
 .rounded-2 {
-    border-radius: 10px !important
+    border-radius: 1000px !important
 }
 
 .rounded-3 {
-    border-radius: 10px !important
+    border-radius: 10000px !important
 }
 
 .rounded-circle {

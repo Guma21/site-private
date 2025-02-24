@@ -437,6 +437,108 @@
 
 /*** Single Page Hero Header End ***/
 
+/*** About Start ***/
+.about .about-item {
+    border-radius: 10px;
+    background: var(--bs-white);
+    box-shadow: inset 0 0 45px rgba(0, 0, 0, .1);
+    transition: 0.5s;
+}
+
+.about .about-item a {
+    transition: 0.5s;
+}
+
+.about .about-item:hover a:hover {
+    color: var(--bs-primary);
+}
+
+.about .about-item .about-img {
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.about .about-item .about-img img {
+    transition: 0.5s;
+}
+
+.about .about-item:hover .about-img img {
+    transform: scale(1.2);
+}
+
+.about .about-item .about-img::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background: rgba(0, 208, 132, 0.1);
+    opacity: 0;
+    transition: 0.5s;
+    z-index: 1;
+}
+
+.about .about-item:hover .about-img::after {
+    opacity: 1;
+}
+
+.about .about-item .about-img .about-title {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    z-index: 5;
+}
+
+.about .about-item .about-img .about-title a {
+    color: var(--bs-white);
+    background: var(--bs-primary);
+    transition: 0.5s;
+}
+
+.about .about-item:hover .about-img .about-title a:hover {
+    color: var(--bs-dark);
+}
+
+.about-carousel .owl-stage-outer {
+    margin-top: 58px;
+}
+
+.about .owl-nav .owl-prev {
+    position: absolute;
+    top: -58px;
+    left: 0;
+    background: var(--bs-primary);
+    color: var(--bs-white);
+    padding: 6px 35px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.about .owl-nav .owl-prev:hover {
+    background: var(--bs-dark);
+    color: var(--bs-primary);
+}
+
+.about .owl-nav .owl-next {
+    position: absolute;
+    top: -58px;
+    right: 0;
+    background: var(--bs-primary);
+    color: var(--bs-white);
+    padding: 6px 35px;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.about .owl-nav .owl-next:hover {
+    background: var(--bs-dark);
+    color: var(--bs-primary);
+}
+
+/*** About End ***/
 
 /*** Service Start ***/
 .service .service-item {

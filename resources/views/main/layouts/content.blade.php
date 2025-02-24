@@ -17,8 +17,8 @@
                             <div class="d-flex">
                                 <div><i class="fas fa-lightbulb fa-3x text-primary"></i></div>
                                 <div class="ms-4">
-                                    <h4>Business Consuluting</h4>
-                                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <h4>Inovative & Adaptive</h4>
+                                    <p>There is Never Enough Words for Curiousity</p>
                                 </div>
                             </div>
                         </div>
@@ -27,7 +27,7 @@
                                 <div><i class="far fa-bookmark fa-3x text-primary"></i></div>
                                 <div class="ms-4">
                                     <h4>Year Of Expertise</h4>
-                                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                                    <p>As People Say, Experience is The Best Teacher</p>
                                 </div>
                             </div>
                         </div>
@@ -39,8 +39,8 @@
                             <div class="d-flex">
                                 <i class="fas fa-phone-alt fa-2x text-primary me-4"></i>
                                 <div>
-                                    <h4>Call Us</h4>
-                                    <p class="mb-0 fs-5" style="letter-spacing: 1px;">+01234567890</p>
+                                    <h4>Chat Now</h4>
+                                    <a href="" class="p d-inline-block mb-3">+62 851-2356-3900</a>
                                 </div>
                             </div>
                         </div>
@@ -69,12 +69,12 @@
 </div>
 <!-- About End -->
 
-<!-- Offer Start -->
+<!-- Resume Start -->
 <div class="container-fluid offer-section pb-5">
     <div class="container pb-5">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
             <h4 class="text-primary">My Resume</h4>
-            <h1 class="display-5 mb-4">Working Experince</h1>
+            <h1 class="display-5 mb-4">Summary of My Work Journey Over The Past Few Years</h1>
             <p class="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis
                 cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt
                 sint dolorem autem obcaecati, ipsam mollitia hic.
@@ -200,9 +200,9 @@
         </div>
     </div>
 </div>
-<!-- Offer End -->
+<!-- Resume End -->
 
-<!-- FAQs Start -->
+<!-- Resume Start -->
 <div class="container-fluid faq-section pb-5">
     <div class="container pb-5 overflow-hidden">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
@@ -214,7 +214,7 @@
             </p>
         </div>
         <div class="row g-5 align-items-center">
-            <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="col-lg-7 wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="accordion accordion-flush bg-light rounded p-5" id="accordionFlushSection">
                     <div class="accordion-item rounded-top">
                         <h2 class="accordion-header" id="flush-headingOne">
@@ -299,17 +299,17 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
-                <div class="bg-primary rounded">
-                    <img src="file-stocker/img/about-2.png" class="img-fluid w-100" alt="">
+            <div class="col-lg-5 wow fadeInRight" data-wow-delay="0.2s">
+                <div class="bg-primary rounded-1 w-100">
+                    <img src="file-stocker/img/my/mypic.jpg" class="img-fluid rounded-1" alt="">
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- FAQs End -->
+<!-- Resume End -->
 
-<!-- Features Start -->
+<!-- Skill Start -->
 <div class="container-fluid feature pb-5">
     <div class="container pb-5">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
@@ -384,9 +384,9 @@
         </div>
     </div>
 </div>
-<!-- Features End -->
+<!-- Skill End -->
 
-<!-- Blog Start -->
+<!-- Personal Start -->
 <div class="container-fluid blog pb-5">
     <div class="container pb-5">
         <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
@@ -518,7 +518,7 @@
         </div>
     </div>
 </div>
-<!-- Blog End -->
+<!-- Personal End -->
 
 <!-- Services Start -->
 <div class="container-fluid service pb-5">
